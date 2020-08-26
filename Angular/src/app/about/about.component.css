@@ -1,0 +1,21 @@
+.section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.description {
+  padding: 25px;
+}
+
+.container {
+  width: 450vw;
+  height: 70vh;
+  overflow: hidden;
+  margin: 25px;
+  border-radius: 50%;
+}
+
+img {
+  max-width: 100%;
+}
